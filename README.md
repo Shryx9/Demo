@@ -1,3 +1,4 @@
 # Demo
 This is my first GIT Repository.
-Authus - Yatri Soni
+<br>
+Author - Yatri Soni
